@@ -11,7 +11,8 @@ Analysis Preformed
 
 ## Results
 
-* District summary - 
+* District summary - The district summary did not change much after removing the 9th grade reading and math test scores from the summary DataFrame
+
 District Summary Before:
 ![image](https://user-images.githubusercontent.com/99375741/159202161-4884b232-6724-47fd-8012-ec3dce17466d.png)
 
